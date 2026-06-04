@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aluoch-Odawo
-- 👀 I’m interested in Food
-- 🌱 I’m currently coding like you
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creativity
+- 🌱 I’m currently sprwaling through my mind like you are
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
 <!---
