@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Aluoch-Odawo
-- 👀 I’m interested in creativity
-- 🌱 I’m currently sprwaling through my mind like you are
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 👋 Hi, I’m @Aluoch-Odawo, full of creativity
+&& I’m currently sprawling through my mind like you are.. 
 
 <!---
 Aluoch-Odawo/Aluoch-Odawo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
