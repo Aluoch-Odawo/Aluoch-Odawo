@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aluoch-Odawo, full of creativity
+Hi, I’m @Aluoch-Odawo, full of creativity
 && I’m currently sprawling through my mind like you are.. 
 
 <!---
